@@ -41,7 +41,7 @@ const poseNetConfig = {
     quantBytes: 2
   },
   singlePoseDetection: {
-    minPoseConfidence: 0.1,
+    minPoseConfidence: 0.09,
     minPartConfidence: 0.5
   },
   output: {
